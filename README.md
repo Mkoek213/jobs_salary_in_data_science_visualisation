@@ -4,6 +4,8 @@ This repository contains the Tableau Public dashboard "Jobs and Salaries in Data
 
 The Tableau file containing the dashboard is named `jobs_salary_data_science.twb`.
 
+[Link to Tableau Public project](https://public.tableau.com/app/profile/miko.aj.ko.ek/viz/Book1_17216428564260/Dashboard1)
+
 ## Dashboard Overview
 
 ![Main View](photos/main_view.png)
